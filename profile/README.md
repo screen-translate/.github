@@ -19,6 +19,6 @@ Screen Translate is an offline screen translator for Mac. Translate text in apps
 
 - [Screen Translate website](https://screen-translate.app)
 - [Download for Mac](https://apps.apple.com/app/screen-translate-fast-easy/id6789973323)
-- [Support](https://github.com/screen-translate/support)
+- [Support](https://screen-translate.github.io/support/)
 - [Privacy policy](https://screen-translate.app/privacy)
 - [Website source code](https://github.com/screen-translate/website) — React, TypeScript, and Vite.
