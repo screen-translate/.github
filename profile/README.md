@@ -6,7 +6,7 @@ Screen Translate is an offline screen translator for Mac. Translate text in apps
 
 [Download on the Mac App Store](https://apps.apple.com/app/screen-translate-fast-easy/id6789973323) · [Website](https://screen-translate.app)
 
-[![Screen Translate on Mac: offline translation, original layout, and quick access from the menu bar](https://raw.githubusercontent.com/screen-translate/website/main/public/videos/poster.jpg)](https://screen-translate.app)
+![Screen Translate translating English text into Korean on Mac](https://raw.githubusercontent.com/screen-translate/.github/main/profile/assets/demo-ko.gif)
 
 ## What you can do
 
